@@ -1,2 +1,2 @@
 # haasancan.json
-["haasancan"], ["thishitsocrazy"]
+["haasancan","thishitsocrazy","cann.sawcu"]
